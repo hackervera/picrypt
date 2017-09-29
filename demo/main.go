@@ -4,7 +4,8 @@ import (
 	"fmt"
 	"log"
 	"math/rand"
-	"picrypt"
+
+	"github.com/tjgillies/picrypt"
 )
 
 func main() {
